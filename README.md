@@ -10,8 +10,6 @@ A simple command-line tool built in Python that fetches current weather informat
 - Lightweight and beginner-friendly
 - Learn APIs, CLI tools (`argparse`), and JSON parsing
 
----
-
 ## Demo
 
 ```bash
@@ -21,3 +19,11 @@ Weather in Delhi:
 Condition: Rain
 Temperature: 27.05 °C
 Humidity: 94%
+
+## Reguirements
+
+requests module (pip install requests)
+
+
+
+
