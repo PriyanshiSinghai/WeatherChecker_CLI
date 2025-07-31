@@ -3,7 +3,7 @@ import argparse
 import sys
 import time
 
-API_KEY = "5381ec7dbb2d0c960f88e48b8c25a273"
+API_KEY = "your_api_key_here"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 #city = input("Enter the city name: ")
