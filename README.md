@@ -20,10 +20,15 @@ Condition: Rain
 Temperature: 27.05 °C
 Humidity: 94%
 
-## Reguirements
+## Requirements
 
 requests module (pip install requests)
 
+## Setup & Usage
+1. Clone the repo:
+git clone https://github.com/PriyanshiSinghai/WeatherChecker_CLI.git
 
+2. Get your free API key from OpenWeatherMap
 
+3. Paste your API key into the script (weather_cli.py)
 
