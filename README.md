@@ -13,7 +13,7 @@ A simple command-line tool built in Python that fetches current weather informat
 ## Demo
 
 ```bash
-$ python weather_cli.py --city Delhi --unit metric
+$ python weather_cli.py --city Delhi 
 
 Weather in Delhi:
 Condition: Rain
@@ -31,4 +31,8 @@ git clone https://github.com/PriyanshiSinghai/WeatherChecker_CLI.git
 2. Get your free API key from OpenWeatherMap
 
 3. Paste your API key into the script (weather_cli.py)
+    API_KEY = "your_api_key_here"
+
+4. Run the script:
+    python weather_cli.py --city Delhi  
 
